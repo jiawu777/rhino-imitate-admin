@@ -11,3 +11,8 @@ h1:hover{
 h1:active{
     color:yellow;
 }
+
+p{
+    font-size:20px;
+    color:purple;
+}
