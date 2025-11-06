@@ -1,0 +1,13 @@
+h1{
+    color:blue;
+    border-left: 10px dashed green;
+    border-bottom: 10px dotted blue;
+}
+
+h1:hover{
+    color:red;
+}
+
+h1:active{
+    color:yellow;
+}
